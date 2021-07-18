@@ -21,7 +21,12 @@
             android:id="@+id/BtnUp"
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:text="Cima" />
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/border_redonda"
+            android:text="Cima"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
 
         <Button
             android:id="@+id/BtnDonw"
